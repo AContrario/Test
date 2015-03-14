@@ -6,6 +6,6 @@
 using namespace std;
 void main()
 {
-	printf_s("Hello world");
+	int a;
 }
 
