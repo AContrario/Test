@@ -6,6 +6,7 @@
 using namespace std;
 void main()
 {
+	float gav=0;
 	int a;
 }
 
